@@ -1,0 +1,7 @@
+import Discord
+export DISCORD_BOT_TOKEN=<ATLAS>
+export TICKER=AAPL
+export STOCK_NAME=Apple
+export TICKER=ATLAS
+export CRYPTO_NAME=ATLAS
+X- https://www.coingecko.com/en/coins/star-atlas/php
